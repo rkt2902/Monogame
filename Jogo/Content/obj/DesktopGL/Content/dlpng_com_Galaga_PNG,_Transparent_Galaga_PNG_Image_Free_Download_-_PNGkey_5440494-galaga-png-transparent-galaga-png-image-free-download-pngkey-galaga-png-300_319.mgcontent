@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/EDJD - 2 Semestre/Monogame/Jogo/Content/dlpng_com_Galaga_PNG,_Transparent_Galaga_PNG_Image_Free_Download_-_PNGkey_5440494-galaga-png-transparent-galaga-png-image-free-download-pngkey-galaga-png-300_319.png</SourceFile>
+  <SourceTime>2022-05-07T15:53:37.6137384+01:00</SourceTime>
+  <DestFile>E:/EDJD - 2 Semestre/Monogame/Jogo/Content/bin/DesktopGL/Content/dlpng_com_Galaga_PNG,_Transparent_Galaga_PNG_Image_Free_Download_-_PNGkey_5440494-galaga-png-transparent-galaga-png-image-free-download-pngkey-galaga-png-300_319.xnb</DestFile>
+  <DestTime>2022-05-07T16:15:01.1720843+01:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2020-08-10T17:17:54+01:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2020-08-10T17:17:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>255,0,255,255</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>MakeSquare</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

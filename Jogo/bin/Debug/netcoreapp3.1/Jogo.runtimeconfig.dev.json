@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rkt\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rkt\\.nuget\\packages",
+      "G:\\Visual Studio\\Cache\\NuGetPackages"
+    ]
+  }
+}

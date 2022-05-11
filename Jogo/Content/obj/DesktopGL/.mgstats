@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/EDJD - 2 Semestre/Monogame/Jogo/Content/bala.png","E:/EDJD - 2 Semestre/Monogame/Jogo/Content/bin/DesktopGL/bala.xnb","TextureProcessor","Texture2DContent",1765,3517,0,3293546
+"E:/EDJD - 2 Semestre/Monogame/Jogo/Content/enemyyy.png","E:/EDJD - 2 Semestre/Monogame/Jogo/Content/bin/DesktopGL/enemyyy.xnb","TextureProcessor","Texture2DContent",1610,9105,0,0017469
+"E:/EDJD - 2 Semestre/Monogame/Jogo/Content/nave.png","E:/EDJD - 2 Semestre/Monogame/Jogo/Content/bin/DesktopGL/nave.xnb","TextureProcessor","Texture2DContent",3547,13813,0,0021095
