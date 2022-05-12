@@ -25,21 +25,28 @@ namespace Jogo.Content.Sprites
             {
                 Position.X -= speed / 2;
 
-                if(Rectangle.Bottom >= Game1.ScreenWidth)
+                if(Rectangle.Left <= 0)
                 {
                     IsRemoved = true;
                 }
 
             }
 
-        foreach(var balas in avioes)
+        foreach(var aviao in avioes)
             {
-                if (balas is Enemy)
+                if (aviao is Enemy)
                     continue;
                 {
-                    if (balas.Rectangle.Intersects(this.Rectangle))
+                    if (aviao.Rectangle.Intersects(this.Rectangle) && fire == true)
                     {
-                        IsRemoved = true;
+                       IsRemoved = true;
+                        if(aviao is nave)
+                        {
+                            var nave = aviao as nave;
+                            nave.IsRemoved = true;
+                            nave.Morto = true;
+                            
+                        }
                     }
                 }
             }

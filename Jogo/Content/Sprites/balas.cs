@@ -20,9 +20,29 @@ namespace Jogo.Content.Sprites
         {
             _timer += (float)gameTime.ElapsedGameTime.TotalSeconds;
 
-            if(_timer >  LifeSpan)
-            IsRemoved = true;
+            if(_timer > LifeSpan || IsRemoved == true)
+            {
+                fire = false;
+                IsRemoved = true;
+            }
             Position += Direction * LinearVelocity;
+
+            foreach (var aviao in avioes)
+            {
+                if (aviao is balas)
+                    continue;
+                if (aviao.Rectangle.Intersects(this.Rectangle))
+                {
+                    _timer += _timer + 1;
+                    if(_timer == _timer + 1)
+                    {
+                        IsRemoved = true;
+                        fire = false;
+                    }
+                   
+                }
+
+            }
 
         }
     }

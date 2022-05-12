@@ -73,6 +73,7 @@ namespace Jogo.Content.Sprites
 
         private void Disparo(List<aviao> avioes)
         {
+            
             var Balas = balas.Clone() as balas;
             Balas.Direction = this.Direction;
             Balas.Position.X = this.Position.X +75 ;
@@ -80,6 +81,7 @@ namespace Jogo.Content.Sprites
             Balas.LinearVelocity = this.LinearVelocity * 2;
             Balas.LifeSpan = 2f;
             Balas.Parent = this;
+            Balas.fire = true;
 
             avioes.Add(Balas);
         }

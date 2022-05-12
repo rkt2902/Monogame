@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>E:/EDJD - 2 Semestre/Monogame/Jogo/Content/enemyyy.png</SourceFile>
+  <SourceFile>E:/EDJD - 2 Semestre/Monogame/Monogame/Jogo/Content/enemyyy.png</SourceFile>
   <SourceTime>2022-05-11T23:07:02.7127952+01:00</SourceTime>
-  <DestFile>E:/EDJD - 2 Semestre/Monogame/Jogo/Content/bin/DesktopGL/Content/enemyyy.xnb</DestFile>
-  <DestTime>2022-05-11T23:07:53.4291698+01:00</DestTime>
+  <DestFile>E:/EDJD - 2 Semestre/Monogame/Monogame/Jogo/Content/bin/DesktopGL/Content/enemyyy.xnb</DestFile>
+  <DestTime>2022-05-12T11:30:23.9372914+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T17:17:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

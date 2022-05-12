@@ -4,9 +4,9 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>E:/EDJD - 2 Semestre/Monogame/Jogo/Content/bala.png</File>
-    <File>E:/EDJD - 2 Semestre/Monogame/Jogo/Content/enemyyy.png</File>
-    <File>E:/EDJD - 2 Semestre/Monogame/Jogo/Content/nave.png</File>
+    <File>E:/EDJD - 2 Semestre/Monogame/Monogame/Jogo/Content/bala.png</File>
+    <File>E:/EDJD - 2 Semestre/Monogame/Monogame/Jogo/Content/enemyyy.png</File>
+    <File>E:/EDJD - 2 Semestre/Monogame/Monogame/Jogo/Content/nave.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

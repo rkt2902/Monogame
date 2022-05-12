@@ -28,6 +28,7 @@ namespace Jogo.Content.Sprites
         public float LifeSpan = 0f;
         public bool IsRemoved = false;
         public float speed;
+        public bool fire = true;
         
 
      public Rectangle Rectangle

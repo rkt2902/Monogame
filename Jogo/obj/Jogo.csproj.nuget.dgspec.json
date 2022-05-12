@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\EDJD - 2 Semestre\\Monogame\\Jogo\\Jogo.csproj": {}
+    "E:\\EDJD - 2 Semestre\\Monogame\\Monogame\\Jogo\\Jogo.csproj": {}
   },
   "projects": {
-    "E:\\EDJD - 2 Semestre\\Monogame\\Jogo\\Jogo.csproj": {
+    "E:\\EDJD - 2 Semestre\\Monogame\\Monogame\\Jogo\\Jogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\EDJD - 2 Semestre\\Monogame\\Jogo\\Jogo.csproj",
+        "projectUniqueName": "E:\\EDJD - 2 Semestre\\Monogame\\Monogame\\Jogo\\Jogo.csproj",
         "projectName": "Jogo",
-        "projectPath": "E:\\EDJD - 2 Semestre\\Monogame\\Jogo\\Jogo.csproj",
+        "projectPath": "E:\\EDJD - 2 Semestre\\Monogame\\Monogame\\Jogo\\Jogo.csproj",
         "packagesPath": "C:\\Users\\rkt\\.nuget\\packages\\",
-        "outputPath": "E:\\EDJD - 2 Semestre\\Monogame\\Jogo\\obj\\",
+        "outputPath": "E:\\EDJD - 2 Semestre\\Monogame\\Monogame\\Jogo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Visual Studio\\Cache\\NuGetPackages"
